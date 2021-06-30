@@ -54,3 +54,19 @@ footer {
   color: #081d53;
   margin-left: 40%;
 }
+.button-style {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 96px;
+  line-height: 50px;
+  width: 350px;
+  height: 70px;
+  color: #081d53;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  text-align: center;
+  background-color: #ffe9e9;
+  text-decoration: none;
+}

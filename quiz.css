@@ -1,0 +1,42 @@
+body {
+  margin: 68px;
+}
+h1 {
+  font-family: roboto;
+  font-size: 96px;
+}
+.q-style {
+  font-family: roboto;
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 40px;
+}
+.answers-container {
+  display: flex;
+  flex-direction: column;
+}
+.answers-style {
+  font-family: Roboto;
+  padding-bottom: 40px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.footer-container {
+}
+.button-style {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 96px;
+  line-height: 50px;
+  width: 350px;
+  height: 70px;
+  color: #081d53;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  text-align: center;
+  background-color: #ffe9e9;
+  text-decoration: none;
+  margin-left: 1300px;
+}
